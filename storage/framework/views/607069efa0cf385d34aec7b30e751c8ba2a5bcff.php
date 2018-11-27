@@ -11,6 +11,7 @@
     <div class="col-sm-12" style="margin-top: 10px">
         <div class="panel panel-info">
             <div class="panel panel-heading">
+                <a href="<?php echo e(URL::to('/')); ?>"><i class="fa fa-home" style="font-size: 25px"></i></a>
                 <h3 style="text-align:center">Student Information</h3>
             </div>
             <div class="panel panel-body">
